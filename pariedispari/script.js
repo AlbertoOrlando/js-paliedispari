@@ -34,4 +34,4 @@ function pariDispari(numero) {
     }
 }
 let risultato = pariDispari(somma);
-console.log('risultato:', risultato);
+console.log('la somma dei numeri è:', risultato);
